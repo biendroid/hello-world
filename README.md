@@ -1,2 +1,7 @@
 # hello-world
-My first repository (for tutorial puposes)
+
+Hello GitHub!
+
+Bien Carlo B. Halili
+BS Computer Engineering
+Mapua University
